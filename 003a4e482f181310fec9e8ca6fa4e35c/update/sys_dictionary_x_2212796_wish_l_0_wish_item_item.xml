@@ -16,7 +16,7 @@
         <delete_roles/>
         <dependent/>
         <dependent_on_field/>
-        <display>false</display>
+        <display>true</display>
         <dynamic_creation>false</dynamic_creation>
         <dynamic_creation_script/>
         <dynamic_default_value/>
@@ -54,7 +54,7 @@
         <sys_scope display_value="Wish List">003a4e482f181310fec9e8ca6fa4e35c</sys_scope>
         <sys_update_name>sys_dictionary_x_2212796_wish_l_0_wish_item_item</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2026-10-28 05:57:58</sys_updated_on>
+        <sys_updated_on>2026-10-28 06:39:36</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
